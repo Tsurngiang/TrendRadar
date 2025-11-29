@@ -111,8 +111,6 @@ platforms:
     name: "联合早报"
   - id: "wallstreetcn-hot"
     name: "华尔街见闻"
-  - id: "xueqiu"
-    name: "雪球"
   - id: "bilibili-hot-search"
     name: "bilibili 热搜"
   - id: "tieba"
